@@ -10,6 +10,15 @@
 
   * [Using](./docs/getting-started/using)
 
+* [Tools](.doca/tools/index)
+
+  * [Poly Editor](./docs/tools/editor)
+
+  * [Poly CLI](./docs/tools/cli)
+
+  * [Poly Toolkit](./docs/tools/toolkit)
+
+
 * [Syntax](./docs/syntax/index)
 
   * [Structure](./docs/syntax/structure)
@@ -19,6 +28,10 @@
   * [Variables](./docs/syntax/vars) 
 
   * [Operators](./docs/syntax/operators)
+
+  * [Conditions](./docs/syntax/conditions) 
+
+  * [Loops](./docs/syntax/loops)
 
   * [Methods](./docs/syntax/methods)
 
