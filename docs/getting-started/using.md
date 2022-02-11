@@ -15,7 +15,8 @@ To build your project as Windows executable click *Project > Build*
 1. Create folder for your project
 2. Create `main.poly` file inside
 3. Write simple program code in `main.poly` file:
-```c#
+
+```clike
 namespace 'MyProgram';
 
 class Program
@@ -25,12 +26,15 @@ class Program
     } 
 } 
 ```
+
 4. Run your project with command line:
-```
+
+```bash
 poly run -project './' -debug
 ```
 
 Also you can convert your project to Windows executable with command line:
-```
+
+```bash
 poly build -mode il -project './' -out './bin/Release.exe'
 ```
