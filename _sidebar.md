@@ -21,6 +21,8 @@
 
 * [Syntax](./docs/syntax/index)
 
+  * [Terminology](./docs/syntax/terminology)
+
   * [Structure](./docs/syntax/structure)
 
   * [Basics](./docs/syntax/basics)
