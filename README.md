@@ -1,3 +1,3 @@
 # About
 Documentation of Poly programming language.
-[Link](https://poly-language.github.io/poly-docs)
+[Link](https://polylanguage.github.io/poly-docs)
