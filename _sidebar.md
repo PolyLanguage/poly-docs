@@ -27,7 +27,7 @@
 
   * [Basics](./docs/syntax/basics)
 
-  * [Variables](./docs/syntax/vars) 
+  * [Variables](./docs/syntax/variables) 
 
   * [Operators](./docs/syntax/operators)
 
