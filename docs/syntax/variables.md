@@ -8,7 +8,7 @@ The default types of Poly language:
 - `bool` (Boolean values: `true` or `false`)
 - `lambda` (Function)
 - `array<T>` (List of values of `T` type, `T` may be any of available types)
-- `object` (Dictionary values)
+- `map` (Dictionary values)
 - `void` (The `null` value type)
 
 # Variables. Syntax
@@ -63,5 +63,13 @@ array<array<int>> array2d = [
 ];
 ```
 
-# Variables. Object
-Soon.
+# Variables. Map
+Map is basically type of value where you store a list of values with custom indices.
+When you define a map you also have to specify its indices type and values type (As T, separated by comma). Example:
+```poly
+map<string, int> mymap = {
+    'a': 100,
+    'b: 200,
+    'c': 300
+};
+```
